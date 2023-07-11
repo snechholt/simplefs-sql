@@ -1,0 +1,4 @@
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/snechholt/simplefs v0.1.0 h1:n0OlK4nLZH3pK8pGMMuJfEim3+AmxmvFyR5KDGfuv3E=
+github.com/snechholt/simplefs v0.1.0/go.mod h1:PggCb1o/PAb7WIhGVwNE6LzprkJVYMCvjes6vsrrv/4=
